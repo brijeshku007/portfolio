@@ -165,7 +165,7 @@ Full-stack restaurant management platform with multi-restaurant support, real-ti
 
 ## 📊 GitHub Stats
 
-![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijeshku007&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+<!-- ![Brijesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijeshku007&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshku007&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF)
 
@@ -177,7 +177,7 @@ Let's build something amazing together! Feel free to reach out:
 
 - 📧 **Email**: [uietbrijesh@gmail.com](mailto:uietbrijesh@gmail.com)
 - 📱 **Phone**: +91 7705811618
-- 🌐 **Portfolio**: [brijeshkumar-portfolio.vercel.app](https://brijeshkumar-portfolio.vercel.app)
+- 🌐 **Portfolio**: [brijeshkumar-portfolio.vercel.app](https://portfolio-bk-five.vercel.app/)
 
 ---
 
