@@ -3,6 +3,7 @@
 ## Recommended: Deploy to Vercel (2 Minutes)
 
 ### Prerequisites
+
 - Git installed on your computer
 - GitHub account
 - Your code pushed to GitHub
@@ -24,6 +25,7 @@ git push -u origin main
 ```
 
 **Or use GitHub Desktop:**
+
 1. Open GitHub Desktop
 2. Add your repository: `File > Add Local Repository`
 3. Select folder: `c:\Users\91770\OneDrive\Desktop\portfolio`
@@ -161,6 +163,7 @@ If you add backend later:
 ## Continuous Deployment
 
 Once connected to GitHub:
+
 - Every push to `main` branch = automatic deployment
 - View deployment logs in Vercel dashboard
 - Rollback to previous versions if needed
@@ -170,6 +173,7 @@ Once connected to GitHub:
 ## Troubleshooting
 
 ### Build Fails?
+
 ```bash
 # Test build locally first
 cd client
@@ -179,14 +183,17 @@ npm run build
 ```
 
 ### Images Not Loading?
+
 - Check paths: Should be `/Aireal1.png` not `./Aireal1.png`
 - Ensure files are in `client/public` folder
 
 ### Styles Broken?
+
 - Verify Tailwind config is correct
 - Check if CSS files are imported in main.jsx
 
 ### Contact Form Not Working?
+
 - Verify Formspree ID is correct
 - Check browser console for errors
 - Ensure CORS is enabled in Formspree settings
@@ -214,12 +221,14 @@ vercel --prod
 ## Live Demo Links
 
 After deployment, share these:
+
 - **Live URL**: `https://portfolio-brijeshkumar.vercel.app`
 - **GitHub Repo**: `https://github.com/brijeshku007/portfolio`
 
 ---
 
 **Need Help?**
+
 - Vercel Docs: https://vercel.com/docs
 - Netlify Docs: https://docs.netlify.com
 - Vite Deploy Guide: https://vitejs.dev/guide/static-deploy.html
